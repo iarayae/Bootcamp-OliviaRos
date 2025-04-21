@@ -3,6 +3,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+/* Navbar fija */
+body {
+  padding-top: 70px;
+}
+
 /* Hero */
 .hero {
   height: 100vh;
